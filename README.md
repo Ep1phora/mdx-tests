@@ -8,7 +8,7 @@
 
 <a href="https://scissors-application.vercel.app" rel="noreferrer" target="_blank">Try it out</a>
 
-<h2 align="center" style="font-size: 24px;">About The Project</h2>
+## About The Project
 
 The "Scissors" supports:
 
