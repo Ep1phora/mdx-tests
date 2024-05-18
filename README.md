@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/public/favicon-32x32.png">
-    <img src="apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
+    <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
   </a>
 
   <h1 style="font-size: 32px; margin-top: 0">️Scissors</h1>
