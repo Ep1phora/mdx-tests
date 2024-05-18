@@ -1,18 +1,17 @@
 <br />
 
-<div align="center">
-  <a href="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/public/favicon-32x32.png">
-    <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
-  </a>
 
-  <h1 style="font-size: 32px; margin-top: 0">️Scissors</h1>
+<a href="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/public/favicon-32x32.png">
+  <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
+</a>
 
-  <p>
-    Your awesome application for versatile image formatting and processing!
-    <br />
-    <a href="https://scissors-application.vercel.app" rel="noreferrer" target="_blank">Try it out</a>
-  </p>
-</div>
+<h1 style="font-size: 32px; margin-top: 0">️Scissors</h1>
+
+<p>
+  Your awesome application for versatile image formatting and processing!
+  <br />
+  <a href="https://scissors-application.vercel.app" rel="noreferrer" target="_blank">Try it out</a>
+</p>
 
 <h2 align="center" style="font-size: 24px;">About The Project</h2>
 
