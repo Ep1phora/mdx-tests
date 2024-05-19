@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
+<img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo">
 
 <h1 style="font-size: 32px; margin-top: 0">️Scissors</h1>
 
