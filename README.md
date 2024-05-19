@@ -1,5 +1,7 @@
 # Title
 
+[![Product Screen Shot][preview-screenshot]][project-github]
+
 <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo">
 
 ## About The Project
@@ -86,3 +88,5 @@ See [LICENSE](https://github.com/MiracleHorizon/scissors/blob/main/LICENSE) for 
 [preview-screenshot-1]: social/og-image-share-light.png
 
 [preview-screenshot-2]: social/og-image-share-dark.png
+
+[preview-screenshot]: social/og-image-share-light.png
