@@ -2,7 +2,7 @@
 
 ## About The Project
 
-The "Scissors" supports:
+#### The "Scissors" supports:
 
 * 🌓 Dark mode
 * 🎨 Theme color
@@ -12,7 +12,7 @@ The "Scissors" supports:
 
 ### 🧨 Features
 
-Some of the features available are:
+#### Some of the features available are:
 
 * Rotation
 * Resizing, Extending, Trimming
