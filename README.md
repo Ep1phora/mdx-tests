@@ -1,5 +1,3 @@
-# Title
-
 [![Product Screen Shot][preview-screenshot]][project-github]
 
 ## About The Project
