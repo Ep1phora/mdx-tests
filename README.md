@@ -8,6 +8,10 @@
 
 <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo">
 
+<div align="center">
+  zxcew3213njfbdgbfdhgbdfhkgdbkgdbfkjgdfjk
+</div>
+
 [![App Logo][app-logo]][project-github]
 
 [![Product Screen Shot][preview-screenshot]][project-github]
