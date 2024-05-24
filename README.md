@@ -1,5 +1,14 @@
 [![Product Screen Shot][preview-screenshot]][project-github]
 
+
+<p>You can convert images with a large number of options</p>
+
+You can convert images with a large number of options
+
+<p>Also, you can use "resize", "extend" and other options</p>
+
+Also, you can use "resize", "extend" and other options
+
 ## About The Project
 
 The "Scissors" supports:
