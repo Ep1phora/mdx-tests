@@ -6,6 +6,10 @@
 
 [![Product Screen Shot][preview-screenshot]][project-github]
 
+<div align="center">
+  [![App Logo][app-logo]][project-github]
+</div>
+
 
 <p>You can convert images with a large number of options</p>
 
