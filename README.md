@@ -1,3 +1,9 @@
+<img src="[apps/frontend/public/android-chrome-192x192.png](https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png)" alt="Logo" width=128 height=128>
+
+<img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
+
+[![App Logo][app-logo]][project-github]
+
 [![Product Screen Shot][preview-screenshot]][project-github]
 
 
@@ -88,10 +94,11 @@ Licensed under the MIT License, Copyright © 2023 - present [MiracleHorizon](htt
 
 See [LICENSE](https://github.com/MiracleHorizon/scissors/blob/main/LICENSE) for more information.
 
+
 [project-github]: https://github.com/MiracleHorizon/scissors
+[preview-screenshot]: https://raw.githubusercontent.com/MiracleHorizon/scissors/main/social/og-image-share-dark.png
+[app-logo]: https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png
 
 [preview-screenshot-1]: social/og-image-share-light.png
 
 [preview-screenshot-2]: social/og-image-share-dark.png
-
-[preview-screenshot]: social/og-image-share-light.png
