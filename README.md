@@ -2,13 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo">
+</div>
+
+<img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo">
+
 [![App Logo][app-logo]][project-github]
 
 [![Product Screen Shot][preview-screenshot]][project-github]
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
-</div>
 
 
 <p>You can convert images with a large number of options</p>
