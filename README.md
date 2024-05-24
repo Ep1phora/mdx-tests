@@ -7,7 +7,7 @@
 [![Product Screen Shot][preview-screenshot]][project-github]
 
 <div align="center">
-  [![App Logo][app-logo]][project-github]
+  <img src="https://raw.githubusercontent.com/MiracleHorizon/scissors/main/apps/frontend/public/android-chrome-192x192.png" alt="Logo" width=128 height=128>
 </div>
 
 
